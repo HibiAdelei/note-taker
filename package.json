@@ -1,0 +1,25 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HibiAdelei/note-taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HibiAdelei/note-taker/issues"
+  },
+  "homepage": "https://github.com/HibiAdelei/note-taker#readme",
+  "dependencies": {
+    "heroku": "^7.56.1",
+    "inquirer": "^8.1.2",
+    "mysql": "^2.18.1"
+  }
+}
