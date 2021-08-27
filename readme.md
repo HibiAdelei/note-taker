@@ -19,7 +19,7 @@ This is a simple note taking app built with JS, HTML, CSS, and Node/Express. It 
 
 ## Deployed Application 
 
-[Note Taker](https://hibiadelei.github.io/note-taker/)<br />
+[Note Taker](https://fathomless-ravine-65281.herokuapp.com/)<br />
 
 
 ## Usage
